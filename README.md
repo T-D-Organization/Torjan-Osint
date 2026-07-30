@@ -43,6 +43,7 @@ Torjan-Osint/
 ├── Torjan-Osint.py
 ├── setup.py
 ├── requirements.txt
+├── version.json
 ├── config.json
 └── README.md
 ```
@@ -167,7 +168,7 @@ pip install -r requirements.txt --upgrade
    ██║    ╚██████╝ ██║  ██║ ╚████═╝   ██║ ║██ ██║  ╔████║
    ╚═╝     ╚════╝  ╚═╝  ╚═╝  ╚══╝     ╚═╝ ╚═╝ ╚═╝  ╚════╝
 
-Torjan-Osint v0.1
+                  Torjan-Osint v0.1
 ```
 
 ---
