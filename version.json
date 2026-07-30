@@ -1,0 +1,11 @@
+{
+  "version": "0.1",
+  "latest": "0.1",
+  "release_date": "2026-07-30",
+  "download_url": "https://github.com/T-D-Organization/Torjan-Osint/releases/latest",
+  "changelog": {
+    "0.1": "Initial release with 50+ tools across 10 categories"
+  },
+  "message": "Critical security update recommended!",
+  "min_version": "0.1"
+}
