@@ -8,6 +8,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-success?style=for-the-badge)
 ![Version](https://img.shields.io/badge/Version-v0.1-orange?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/SzWt6yhMm5)
 
 A powerful Python-based OSINT toolkit containing multiple utilities for information gathering, analysis, and security research.
 
