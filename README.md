@@ -188,6 +188,7 @@ Contributions are welcome.
 # ⭐ Support
 
 If you find this project useful, please consider giving it a ⭐ on GitHub.
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/SzWt6yhMm5)
 
 ---
 
