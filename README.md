@@ -19,6 +19,7 @@ A powerful Python-based OSINT toolkit containing multiple utilities for informat
 # ✨ Features
 
 - 🔍 OSINT Utilities
+- 🤖 Discord Token Info OSINT
 - 🌐 WHOIS Lookup
 - 📱 Phone Number Lookup
 - 🌍 IP Information
