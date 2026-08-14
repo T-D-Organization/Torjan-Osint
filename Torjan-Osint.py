@@ -3457,7 +3457,7 @@ if __name__ == "__main__":
         
         clear_screen()
         print_banner()
-        print(f"{Colors.CYAN}[*] Loading EREBUS V2.0...{Colors.END}")
+        print(f"{Colors.CYAN}[*] Loading Torjan-Osint V0.1...{Colors.END}")
         time.sleep(1)
         main_menu()
     except KeyboardInterrupt:
